@@ -238,6 +238,5 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 **🎮 Made with Assembly & Passion 🎮**
 
-*Star ⭐ this repo if you found it interesting!*
 
 </div>
