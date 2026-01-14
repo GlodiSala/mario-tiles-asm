@@ -1,0 +1,27 @@
+# Build outputs
+*.o
+*.elf
+*.hex
+*.lst
+*.map
+*.eep
+*.lss
+*.sym
+
+# IDE files (Microchip Studio)
+.vs/
+*.atsln
+*.componentinfo.xml
+*.cproj
+Debug/
+Release/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*~
+*.bak
+*.swp
